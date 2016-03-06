@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/mattn/go-colorable"
+	"github.com/escribano/go-colorable"
 )
 
 // Testing colors is kinda different. First we test for given colors and their
